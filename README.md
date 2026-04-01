@@ -2,6 +2,8 @@
 This repo only contains hats for the mod figura
 NOTHING ELSE
 
+# Note: i do not own the rights or copyright of the mod figura
+
 How to install the hats 
 -----------------------
 
